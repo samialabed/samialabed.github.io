@@ -30,9 +30,9 @@ Teachings
 -------
 
 * Second-year modules:
-**[Data Science](https://www.cl.cam.ac.uk/teaching/2021/DataSci/)
-**[Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
+  * [Data Science](https://www.cl.cam.ac.uk/teaching/2021/DataSci/)
+  * [Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
 * Third-year modules:
-**[Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
+  * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
 * Masters module:
-**[Large-Scale Data Processing and Optimisation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
+  * [Large-Scale Data Processing and Optimisation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)

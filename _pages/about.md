@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student in the [Systems Research Group](https://www.cl.cam.ac.uk/research/srg/netos/) of the University of Cambridge Computer Laboratory being supervised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). I am also a Doctoral Student at [The Alan Turing Institute](https://www.turing.ac.uk/). I am working on the intersection of Machine Learning and Computer systems. My thesis is on designing computer systems using Bayesian Network as building blocks optimized with Bayesian Optimization.
+I am currently a second-year PhD student in the [Systems Research Group](https://www.cl.cam.ac.uk/research/srg/netos/) of the University of Cambridge Computer Laboratory being supervised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). I am also a Doctoral Student at [The Alan Turing Institute](https://www.turing.ac.uk/). My main research interest is the intersection of Machine Learning and Computer systems design. My thesis is on designing computer systems with Bayesian Networks as building blocks, enabling fast and robust auto-tuning with Bayesian Optimization and auto-recovery with causality counterfactual inference.
 
-I obtained a distinction in the MPhil Advanced Computer Science at the University of Cambridge in 2019 while I was awarded the Cambridge Trust and Students of Cambridge awards to fund my MPhil. Before then, I graduated with a first from The University of Manchester in a BSc Computer Science with Industrial Experience. I have received multiple awards in Manchester to improve the students' life and employability prospects at the department.
+I obtained a distinction in the MPhil Advanced Computer Science at the University of Cambridge in 2019. I was awarded the [Cambridge Trust](https://www.cambridgetrust.org/) and the Students of Cambridge awards to fund my MPhil. Before then, I graduated with a first from The University of Manchester in a BSc Computer Science with Industrial Experience. I have received multiple awards in Manchester for improving the students' life and employability prospects at the department.
 
-I enjoy hackathons and tinkering with quick prototypes on weekends, with various projects hosted on my [GitHub](https://github.com/samialabed?tab=repositories). Previously I worked as a backend software engineer at Amazon, Google, and Twitter, working on large scale systems.
+Previously I worked as a backend software engineer at Amazon, Google, and Twitter, working on large scale systems. I have been to many hackathons where I try quick ideas or implement interesting papers, you can see some of the projects hosted on my [GitHub](https://github.com/samialabed?tab=repositories).
 
 Latest publications
 -------
@@ -25,6 +25,8 @@ Project supervisions
 
 * Sean Parker, Model-based Reinforcement Learning in Computer Systems.
 * Ross Tooley, Auto-tuning Spark with Bayesian optimisation.
+
+Check [Dr Eiko's Yoneki webpage](https://www.cl.cam.ac.uk/~ey204/teaching/Projects/2020_2021/) for list of project suggestions I am happy to co-supervise.
 
 Teachings
 -------

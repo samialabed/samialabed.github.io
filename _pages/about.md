@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Sami Alabed"
-excerpt: "Sami Alabed"
+excerpt: "Personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,7 +36,7 @@ Teachings
   * [Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
 * Third-year modules:
   * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
-* Masters module:
+* Master's modules:
   * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
 
 Review Committees

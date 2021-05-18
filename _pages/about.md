@@ -12,7 +12,7 @@ I am currently a second-year PhD student in the [Systems Research Group](https:/
 
 I obtained a distinction in the *MPhil Advanced Computer Science* at the **University of Cambridge** in 2019. I was awarded the [Cambridge Trust](https://www.cambridgetrust.org/) and the Students of Cambridge awards to fund my MPhil. Before then, I graduated with a first from The **University of Manchester** in a *BSc Computer Science with Industrial Experience*. I have received multiple awards in Manchester for improving the students' life and employability prospects at the department.
 
-Previously I worked as a backend software engineer at **Amazon**, **Google**, and **Twitter**, working on large scale systems. I have been to many hackathons where I try quick ideas or implement interesting papers, you can see some of the projects hosted on my [GitHub](https://github.com/samialabed?tab=repositories).
+Previously I worked at **Amazon**, **Google**, and **Twitter** on large scale distributed systems. I have been to many hackathons where I try quick ideas or implement interesting papers, you can see some of the projects hosted on my [GitHub](https://github.com/samialabed?tab=repositories).
 
 Latest publications
 -------
@@ -23,8 +23,8 @@ Latest publications
 Project supervisions
 -------
 
-* Sean Parker, Model-based Reinforcement Learning in Computer Systems.
-* Ross Tooley, Auto-tuning Spark with Bayesian optimisation.
+* Sean Parker, *Model-based Reinforcement Learning in Computer Systems*.
+* Ross Tooley, *Auto-tuning Spark with Bayesian Optimization*.
 
 Check [Dr Eiko's Yoneki webpage](https://www.cl.cam.ac.uk/~ey204/teaching/Projects/2020_2021/) for list of project suggestions I am happy to co-supervise.
 
@@ -37,7 +37,7 @@ Teachings
 * Third-year modules:
   * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
 * Masters module:
-  * [Large-Scale Data Processing and Optimisation](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
+  * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
 
 Review Committees
 -------

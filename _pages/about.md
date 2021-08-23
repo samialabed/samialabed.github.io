@@ -39,12 +39,3 @@ Teachings
 * Master's modules:
   * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
 
-Review Committees
--------
-
-* Main reviewer:
-  * [EuroSys21': The 1st Workshop on Machine Learning and Systems (EuroMLSys)](https://www.euromlsys.eu/#committees). [4 papers reviewed]
-
-* Shadow reviewer to [Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/):
-  * [MLSys2021: Fourth Conference on Machine Learning and Systems](https://mlsys.org/Conferences/2021/ProgramCommittee). [11 papers reviewed]
-  * [DEBS 2020: 14TH ACM INTERNATIONAL CONFERENCE ON DISTRIBUTED AND EVENT-BASED SYSTEM](https://2020.debs.org/). [2 papers reviewed]

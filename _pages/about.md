@@ -38,5 +38,5 @@ Teachings
   * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
 * Master's modules:
   * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
-    * [Tensorflow Data Processing tutorial](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)   
+    * [Dataflow programming using TensorFlow](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)   
 

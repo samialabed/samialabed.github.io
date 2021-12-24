@@ -16,9 +16,9 @@ Previously I worked at **Amazon**, **Google**, and **Twitter** on large scale di
 
 Latest publications
 -------
-* Alabed, S. and Yoneki, E., 2021. BoGraph: Structured Bayesian Optimization From Logs for Systems with High-dimensional Parameter Space. arXiv preprint arXiv:2112.08774.
-* Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021.
-* Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019).
+* Alabed, S. and Yoneki, E., 2021. BoGraph: Structured Bayesian Optimization From Logs for Systems with High-dimensional Parameter Space. arXiv preprint arXiv:2112.08774. [Preprint](https://arxiv.org/pdf/2112.08774.pdf)[Source Code](https://github.com/samialabed/BoGraph)
+* Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021. [Proceeding](https://dl.acm.org/doi/pdf/10.1145/3437984.3458841)
+* Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019). [Thesis](https://arxiv.org/pdf/1909.13839.pdf) [Source Code](https://github.com/samialabed/rlcache)
 
 Project supervisions
 -------

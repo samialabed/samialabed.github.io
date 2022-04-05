@@ -16,8 +16,8 @@ Previously I worked at **Amazon**, **Google**, and **Twitter** on large scale di
 
 Latest publications
 -------
-* Alabed, S. and Yoneki, E., 2021. BoGraph: Structured Bayesian Optimization From Logs for Systems with High-dimensional Parameter Space. arXiv preprint arXiv:2112.08774. [Preprint](https://arxiv.org/pdf/2112.08774.pdf), [Source Code](https://github.com/samialabed/BoGraph)
-* Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021. [Proceeding](https://dl.acm.org/doi/pdf/10.1145/3437984.3458841)
+* Alabed, Sami, and Eiko Yoneki. "BoGraph: structured bayesian optimization from logs for expensive systems with many parameters." In Proceedings of the 2nd European Workshop on Machine Learning and Systems, pp. 45-53. 2022. [Preprint](https://arxiv.org/pdf/2112.08774.pdf), [Source Code](https://github.com/samialabed/BoGraph), [Slides](../files/slides/eurosys22_bograph.pdf), [Poster](../files/posters/eurosys22_bograph_poster.pdf), [Recording](https://www.youtube.com/watch?v=1VUUXlTX5q8).
+* Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021. [Proceeding](https://dl.acm.org/doi/pdf/10.1145/3437984.3458841), [Slides](../files/slides/eurosys21_multi_task_bo_for_rocksdb.pdf), [Recording](https://www.youtube.com/watch?v=2FIEQaq5bKo).
 * Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019). [Thesis](https://arxiv.org/pdf/1909.13839.pdf), [Source Code](https://github.com/samialabed/rlcache)
 
 Project supervisions
@@ -38,5 +38,4 @@ Teachings
   * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
 * Master's modules:
   * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
-    * [Dataflow programming using TensorFlow](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)   
-
+    * [Dataflow programming using TensorFlow](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)

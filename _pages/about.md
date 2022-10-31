@@ -42,7 +42,7 @@ Teachings
   * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
     * [Dataflow programming using TensorFlow](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)
 
-Reviewer
+Technical Program Committee
 -------
 
 * NeurIPS22 workshop: DMMLSys [Challenges in Deploying and monitoring Machine Learning Systems](https://sites.google.com/view/dmmlsys-neurips2022/home)

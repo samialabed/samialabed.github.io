@@ -17,15 +17,16 @@ Previously I worked at **Amazon**, **Google**, **Twitter**, and **DeepMind** on 
 Latest publications
 -------
 
-* NeurIPS22  MLForSystems -  Alabed, S., Grewe, D., Franco, J., Chrzaszcz, B., Natan, T., Norman, T., Rink, N.A., Vytiniotis, D. and Schaarschmidt, M., 2022. Automatic Discovery of Composite SPMD Partitioning Strategies in PartIR. arXiv preprint arXiv:2210.06352. [Preprint](https://arxiv.org/pdf/2210.06352.pdf)
+* NeurIPS22  MLForSystems -  Alabed, S., Grewe, D., Franco, J., Chrzaszcz, B., Natan, T., Norman, T., Rink, N.A., Vytiniotis, D. and Schaarschmidt, M., 2022. Automatic Discovery of Composite SPMD Partitioning Strategies in PartIR. arXiv preprint arXiv:2210.06352. [Preprint](https://arxiv.org/pdf/2210.06352.pdf).
 * EuroSys22 MLSystems - Alabed, Sami, and Eiko Yoneki. "BoGraph: structured bayesian optimization from logs for expensive systems with many parameters." In Proceedings of the 2nd European Workshop on Machine Learning and Systems, pp. 45-53. 2022. [Preprint](https://arxiv.org/pdf/2112.08774.pdf), [Source Code](https://github.com/samialabed/BoGraph), [Slides](../files/slides/eurosys22_bograph.pdf), [Poster](../files/posters/eurosys22_bograph_poster.pdf), [Recording](https://www.youtube.com/watch?v=1VUUXlTX5q8).
 * EuroSys21 MLSystems - Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021. [Proceeding](https://dl.acm.org/doi/pdf/10.1145/3437984.3458841), [Slides](../files/slides/eurosys21_multi_task_bo_for_rocksdb.pdf), [Recording](https://www.youtube.com/watch?v=2FIEQaq5bKo).
-* MPhil Thesis - Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019). [Thesis](https://arxiv.org/pdf/1909.13839.pdf), [Source Code](https://github.com/samialabed/rlcache)
+* MPhil Thesis - Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019). [Thesis](https://arxiv.org/pdf/1909.13839.pdf), [Source Code](https://github.com/samialabed/rlcache).
 
 Project supervisions
 -------
 
-* Sean Parker, *Model-based Reinforcement Learning in Computer Systems*.
+* Zak Singh, *Deep Reinforcement Learning for Equality Saturation*. [Source code](https://github.com/ZakSingh/omelette).
+* Sean Parker, *RLFlow: Optimising Neural Network Subgraph Transformation with World Models*. [Preprint](https://arxiv.org/pdf/2205.01435.pdf).
 * Ross Tooley, *Auto-tuning Spark with Bayesian Optimization*.
 
 Check [Dr Eiko's Yoneki webpage](https://www.cl.cam.ac.uk/~ey204/teaching/Projects/2021_2022/) for list of project suggestions I am happy to co-supervise.

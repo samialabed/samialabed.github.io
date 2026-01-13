@@ -3,49 +3,42 @@ permalink: /
 title: "Sami Alabed"
 excerpt: "Personal website"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a final-year PhD student in the [Systems Research Group](https://www.cl.cam.ac.uk/research/srg/netos/) of the **University of Cambridge** Computer Laboratory being supervised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). I am also a Doctoral Student at [The Alan Turing Institute](https://www.turing.ac.uk/). My main research interest is the intersection of *Machine Learning and Computer systems design*. My thesis is on designing computer systems with probabilistic graphical models as building blocks, enabling explainable and robust auto-tuning with *Bayesian Optimization* and failures recovery using *Causal Contextual Bandit*.
 
-I obtained a distinction in the *MPhil Advanced Computer Science* at the **University of Cambridge** in 2019. I was awarded the [Cambridge Trust](https://www.cambridgetrust.org/) and the Students of Cambridge awards to fund my MPhil. Before then, I graduated with a first from The **University of Manchester** in a *BSc Computer Science with Industrial Experience*. I have received multiple awards in Manchester for improving the students' life and employability prospects at the department.
+I am a Senior Research Scientist at **Google DeepMind**, Technical Infrastructure Research group, where I specialize in the hardware-software co-design of Machine Learning systems and Silicon Architecture.
 
-Previously I worked at **Amazon**, **Google**, **Twitter**, and **DeepMind** on large scale distributed systems. I have been to many hackathons where I try quick ideas or implement interesting papers, you can see some of the projects hosted on my [GitHub](https://github.com/samialabed?tab=repositories).
+Currently, my research interest is in accelerating TPU tape-out cycles and architect novel hardware units. My expertise spans the full stack—from AI model design and performance optimization to compiler stacks and hardware synthesis. Previously, I led the integration of MCTS-driven search within production compiler stacks (XLA). My work on automatic partitioning for massive-scale models consistently outperformed expert-hand-tuned configurations, directly enhancing the efficiency of large-model training.
+
+Beyond the lab, I am the Co-Founder and Co-director of [MenaML](https://mena.ml), a machine learning school focused on building the AI talent pipeline in the MENA region, with sucessful track record and high calibare candidates. MenaML itself is a technical non-profit organization of 30+ staff from top AI labs driven by the mission of improving science and education access in the region.
+
+I hold a PhD in Computer Science from the **University of Cambridge**, [Systems Research Group](https://www.cl.cam.ac.uk/research/srg/netos/), where I was supervised by [Dr Eiko Yoneki](https://www.cl.cam.ac.uk/~ey204/). My doctoral thesis focused on optimizing complex systems by leveraging causal latent structures, culminating in a custom-built, high-efficiency Structured Bayesian Optimization engine designed for large-scale graphs with a minimal memory footprint. I was also a Doctoral Student at [The Alan Turing Institute](https://www.turing.ac.uk/), the national AI and data science institute in the UK.
+
+I earned my *MPhil Advanced Computer Science* with Distinction from the **University of Cambridge**, supported by the [Cambridge Trust](https://www.cambridgetrust.org/) and the Students of Cambridge awards. I hold a *BSc Computer Science with Industrial Experience* from **The University of Manchester** , where I received multiple awards for my contributions to student employability and departmental life. My professional background includes engineering roles at  **Amazon**, **Google**, **Twitter**, and **DeepMind** , focusing on large-scale distributed systems.
 
 Latest publications
 -------
 
+* ASPLOS25 - Alabed, Sami, Daniel Belov, Bart Chrzaszcz, Juliana Franco, Dominik Grewe, Dougal Maclaurin, James Molloy et al. "Partir: Composing spmd partitioning strategies for machine learning." In Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1, pp. 794-810. 2025.
+* In review - Alabed, Sami, Dominik Grewe, Norman Alexander Rink, Masha Samsikova, Timur Sitdikov, Agnieszka Swietlik, Dimitrios Vytiniotis, and Daniel Belov. "TOAST: Fast and scalable auto-partitioning based on principled static analysis." arXiv preprint arXiv:2508.15010 (2025).
 * NeurIPS22  MLForSystems -  Alabed, S., Grewe, D., Franco, J., Chrzaszcz, B., Natan, T., Norman, T., Rink, N.A., Vytiniotis, D. and Schaarschmidt, M., 2022. Automatic Discovery of Composite SPMD Partitioning Strategies in PartIR. arXiv preprint arXiv:2210.06352. [Preprint](https://arxiv.org/pdf/2210.06352.pdf).
 * EuroSys22 MLSystems - Alabed, Sami, and Eiko Yoneki. "BoGraph: structured bayesian optimization from logs for expensive systems with many parameters." In Proceedings of the 2nd European Workshop on Machine Learning and Systems, pp. 45-53. 2022. [Preprint](https://arxiv.org/pdf/2112.08774.pdf), [Source Code](https://github.com/samialabed/BoGraph), [Slides](../files/slides/eurosys22_bograph.pdf), [Poster](../files/posters/eurosys22_bograph_poster.pdf), [Recording](https://www.youtube.com/watch?v=1VUUXlTX5q8).
 * EuroSys21 MLSystems - Alabed, Sami, and Eiko Yoneki. "High-Dimensional Bayesian Optimization with Multi-Task Learning for RocksDB." In Proceedings of the 1st Workshop on Machine Learning and Systems, pp. 111-119. 2021. [Proceeding](https://dl.acm.org/doi/pdf/10.1145/3437984.3458841), [Slides](../files/slides/eurosys21_multi_task_bo_for_rocksdb.pdf), [Recording](https://www.youtube.com/watch?v=2FIEQaq5bKo).
 * MPhil Thesis - Alabed, Sami. "RLCache: Automated Cache Management Using Reinforcement Learning." arXiv preprint arXiv:1909.13839 (2019). [Thesis](https://arxiv.org/pdf/1909.13839.pdf), [Source Code](https://github.com/samialabed/rlcache).
 
-Project supervisions
+Technical Program Committee
+-------
+
+* MLSys: [2026](https://mlsys.org/Conferences/2026/ProgramCommittee)
+* NeurIPS22 workshop: DMMLSys [Challenges in Deploying and monitoring Machine Learning Systems](https://sites.google.com/view/dmmlsys-neurips2022/home)
+* EuroSys workshops: [EuroMLSys25](https://2025.euromlsys.eu/#committees), [EuroMLSys24](https://2024.euromlsys.eu/#committees), [EuroMLSys23](https://2023.euromlsys.eu/#committees), [EuroMLSys22](https://2022.euromlsys.eu/#committees), [EuroMLSys21](https://2021.euromlsys.eu/#committees).
+
+Previous supervisions
 -------
 
 * Zak Singh, *Deep Reinforcement Learning for Equality Saturation*. [Source code](https://github.com/ZakSingh/omelette).
 * Sean Parker, *RLFlow: Optimising Neural Network Subgraph Transformation with World Models*. [Preprint](https://arxiv.org/pdf/2205.01435.pdf).
 * Ross Tooley, *Auto-tuning Spark with Bayesian Optimization*.
-
-Check [Dr Eiko's Yoneki webpage](https://www.cl.cam.ac.uk/~ey204/teaching/Projects/2021_2022/) for list of project suggestions I am happy to co-supervise.
-
-Teachings
--------
-
-* Second-year modules:
-  * [Data Science](https://www.cl.cam.ac.uk/teaching/2021/DataSci/)
-  * [Concurrent and Distributed systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/)
-* Third-year modules:
-  * [Machine Learning and Bayesian Inference](https://www.cl.cam.ac.uk/teaching/2021/MLBayInfer/)
-* Master's modules:
-  * [Large-Scale Data Processing and Optimization](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2020_2021/)
-    * [Dataflow programming using TensorFlow](https://github.com/samialabed/r244_dataflow_tutorial/blob/main/Dataflow_programming_using_TensorFlow_Student_Copy.ipynb)
-
-Technical Program Committee
--------
-
-* NeurIPS22 workshop: DMMLSys [Challenges in Deploying and monitoring Machine Learning Systems](https://sites.google.com/view/dmmlsys-neurips2022/home)
-* EuroSys22 workshop: [EuroMLSys22](https://euromlsys.eu/#committees)
-* EuroSys21 workshop: [EuroMLSys21](https://euromlsys.eu/#committees)
